@@ -6,9 +6,7 @@ adcdownload
 Xcode
 ====
 ###6.x
-####6.3
 - [xcode_6.3_beta.dmg](http://pan.baidu.com/s/1kT7Sj6f) 密码：s367
-####6.2
 - [xcode_6.2_beta_5.dmg](http://pan.baidu.com/s/1eQvQLyy) 密码：ok8u
 - [xcode_6.2_beta_4.dmg](http://pan.baidu.com/s/1mgj26Oo) 密码：3nrc
 - [xcode_6.2_beta_3.dmg](http://pan.baidu.com/s/1mgMHFlA) 密码：8c6x
