@@ -7,6 +7,7 @@ Xcode
 ====
 ###6.x
 
+- [xcode_6.3_beta_3.dmg](http://pan.baidu.com/s/1mgsrQRY) 密码：wiez
 - [xcode_6.3_beta_2.dmg](http://pan.baidu.com/s/1o61GOFw) 密码：1fmu
 - [xcode_6.3_beta.dmg](http://pan.baidu.com/s/1kT7Sj6f) 密码：s367
 - [xcode_6.2.dmg](http://pan.baidu.com/s/1i3kqpNn) 密码：mh65
