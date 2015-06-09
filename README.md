@@ -39,7 +39,9 @@ Xcode
 OS X
 ====
 
-- [OS X El Capitan Developer beta](http://pan.baidu.com/s/1o67kwg6) 密码：a715
+### El Capitan
+
+- [OS X El Capitan Developer beta](http://pan.baidu.com/s/1kTzOYrH) 密码：b3g3
 
 ### Yosemite
 
