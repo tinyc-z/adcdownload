@@ -5,10 +5,12 @@ adcdownload
 
 Xcode
 ====
+###各种苹果地址（用迅雷速度抗抗的)
 
 ###7.x
 
 - [Xcode_7_beta.dmg](http://pan.baidu.com/s/1gd2ETer)密码：wttq
+- [Xcode_7_beta.dmg 官方地址迅雷会员速度抗抗的](http://adcdownload.apple.com/WWDC_2015/Xcode_7_beta/Xcode_7_beta.dmg)
 
 ###6.x
 
