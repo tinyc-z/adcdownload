@@ -13,6 +13,7 @@ Xcode
 
 ###6.x
 
+- [Xcode_6.4.dmg](http://pan.baidu.com/s/1c0ttiUk)密码：nh8r
 - [Xcode_6.4_beta_4.dmg](http://pan.baidu.com/s/1jGf8D9O)密码：cs4w
 - [Xcode_6.4_beta_3.dmg](http://pan.baidu.com/s/1ntML43R)密码：t7mx
 - [Xcode_6.4_beta.dmg](http://pan.baidu.com/s/1jGtJ0iE) 密码：pqy1
