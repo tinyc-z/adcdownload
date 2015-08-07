@@ -8,7 +8,7 @@ Xcode
 
 ###7.x
 
-- [Xcode_7_beta_4.dmg](http://pan.baidu.com/s/1jG9y1Ga)密码：mb9k
+- [Xcode_7_beta_5.dmg](http://pan.baidu.com/s/1jG9y1Ga)密码：mb9k
 - [Xcode_7_beta_4.dmg](http://pan.baidu.com/s/1o6OOrGI)密码：5jrh
 - [Xcode_7_beta_2.dmg](http://pan.baidu.com/s/1kTCHdR5)密码：hwds
 - [Xcode_7_beta.dmg](http://pan.baidu.com/s/1gd2ETer)密码：wttq
