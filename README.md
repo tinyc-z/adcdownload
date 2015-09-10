@@ -12,19 +12,19 @@ Xcode
 
 ###7.x
 
-- [Xcode_7.1_beta.dmg](http://pan.baidu.com/s/1ntrJPpv)密码：ydm1
-- [Xcode_7_GM_seed.dmg](http://pan.baidu.com/s/1hqCmIrU)密码：sfnm
-- [Xcode_7_beta_6.dmg](http://pan.baidu.com/s/1mggVxAo)密码：5pmf
-- [Xcode_7_beta_5.dmg](http://pan.baidu.com/s/1jG9y1Ga)密码：mb9k
-- [Xcode_7_beta_4.dmg](http://pan.baidu.com/s/1o6OOrGI)密码：5jrh
-- [Xcode_7_beta_2.dmg](http://pan.baidu.com/s/1kTCHdR5)密码：hwds
-- [Xcode_7_beta.dmg](http://pan.baidu.com/s/1gd2ETer)密码：wttq
+- [Xcode_7.1_beta.dmg](http://pan.baidu.com/s/1ntrJPpv) 密码：ydm1
+- [Xcode_7_GM_seed.dmg](http://pan.baidu.com/s/1hqCmIrU) 密码：sfnm
+- [Xcode_7_beta_6.dmg](http://pan.baidu.com/s/1mggVxAo) 密码：5pmf
+- [Xcode_7_beta_5.dmg](http://pan.baidu.com/s/1jG9y1Ga) 密码：mb9k
+- [Xcode_7_beta_4.dmg](http://pan.baidu.com/s/1o6OOrGI) 密码：5jrh
+- [Xcode_7_beta_2.dmg](http://pan.baidu.com/s/1kTCHdR5) 密码：hwds
+- [Xcode_7_beta.dmg](http://pan.baidu.com/s/1gd2ETer) 密码：wttq
 
 ###6.x
 
-- [Xcode_6.4.dmg](http://pan.baidu.com/s/1c0ttiUk)密码：nh8r
-- [Xcode_6.4_beta_4.dmg](http://pan.baidu.com/s/1jGf8D9O)密码：cs4w
-- [Xcode_6.4_beta_3.dmg](http://pan.baidu.com/s/1ntML43R)密码：t7mx
+- [Xcode_6.4.dmg](http://pan.baidu.com/s/1c0ttiUk) 密码：nh8r
+- [Xcode_6.4_beta_4.dmg](http://pan.baidu.com/s/1jGf8D9O) 密码：cs4w
+- [Xcode_6.4_beta_3.dmg](http://pan.baidu.com/s/1ntML43R) 密码：t7mx
 - [Xcode_6.4_beta.dmg](http://pan.baidu.com/s/1jGtJ0iE) 密码：pqy1
 - [Xcode_6.3.2.dmg](http://pan.baidu.com/s/1dD4K66d) 密码：uvcc
 - [Xcode_6.3.dmg](http://pan.baidu.com/s/1bn4g5Fx) 密码：463j
