@@ -3,6 +3,8 @@ adcdownload
 >近来国际出口在一些地区实在不给力，自己有一段时间下载adc的资源特别费劲，所以搞了百度中转给有需要的人
 如果有访问不了的连接，可以及时微博私信我 [@粥米鱼](http://weibo.com/bcker)
 
+从网盘下载后请核对文件哈希值确保安全，不建议使用迅雷下载官方地址
+
 打个广告
 powerby [@shixian.com](http://shixian.com)
 
@@ -12,7 +14,7 @@ Xcode
 
 ###7.x
 
-- [Xcode_7.dmg](http://pan.baidu.com/s/1hqIsMZa) 密码：rfgy
+- [Xcode_7.dmg](http://pan.baidu.com/s/1hqIsMZa) 密码：rfgy <br>MD5：6be3e59a8a8d2ce40fb2076575d71c24 SHA-1：4afc067e5fc9266413c157167a123c8cdfdfb15e
 - [Xcode_7.1_beta.dmg](http://pan.baidu.com/s/1ntrJPpv) 密码：ydm1
 - [Xcode_7_GM_seed.dmg](http://pan.baidu.com/s/1hqCmIrU) 密码：sfnm
 - [Xcode_7_beta_6.dmg](http://pan.baidu.com/s/1mggVxAo) 密码：5pmf
