@@ -14,8 +14,8 @@ Xcode
 
 ###7.x
 
-- [Xcode_7.dmg](http://pan.baidu.com/s/1hqIsMZa) 密码：rfgy <br/>MD5:6be3e59a8a8d2ce40fb2076575d71c24 SHA-1:4afc067e5fc9266413c157167a123c8cdfdfb15e
-- [Xcode_7.1_beta.dmg](http://pan.baidu.com/s/1ntrJPpv) 密码：ydm1 <br/>MD5:73c0d39de38953b16be0fa7792f0b401 SHA-1:11667b8f7d4167c791789f29a44bb375916f93e6
+- [Xcode_7.dmg](http://pan.baidu.com/s/1hqIsMZa) 密码：rfgy <br/>MD5:6be3e59a8a8d2ce40fb2076575d71c24 <br/>SHA-1:4afc067e5fc9266413c157167a123c8cdfdfb15e
+- [Xcode_7.1_beta.dmg](http://pan.baidu.com/s/1ntrJPpv) 密码：ydm1 <br/>MD5:73c0d39de38953b16be0fa7792f0b401 <br/>SHA-1:11667b8f7d4167c791789f29a44bb375916f93e6
 - [Xcode_7_GM_seed.dmg](http://pan.baidu.com/s/1hqCmIrU) 密码：sfnm
 - [Xcode_7_beta_6.dmg](http://pan.baidu.com/s/1mggVxAo) 密码：5pmf
 - [Xcode_7_beta_5.dmg](http://pan.baidu.com/s/1jG9y1Ga) 密码：mb9k
@@ -25,7 +25,7 @@ Xcode
 
 ###6.x
 
-- [Xcode_6.4.dmg](http://pan.baidu.com/s/1c0ttiUk) 密码：nh8r <br/>MD5:fc57760b91df8d45ee57ba80436e49a9 SHA-1:672e3dcb7727fc6db071e5a8528b70aa03900bb0
+- [Xcode_6.4.dmg](http://pan.baidu.com/s/1c0ttiUk) 密码：nh8r <br/>MD5:fc57760b91df8d45ee57ba80436e49a9 <br/>SHA-1:672e3dcb7727fc6db071e5a8528b70aa03900bb0
 - [Xcode_6.4_beta_4.dmg](http://pan.baidu.com/s/1jGf8D9O) 密码：cs4w
 - [Xcode_6.4_beta_3.dmg](http://pan.baidu.com/s/1ntML43R) 密码：t7mx
 - [Xcode_6.4_beta.dmg](http://pan.baidu.com/s/1jGtJ0iE) 密码：pqy1
