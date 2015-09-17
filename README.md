@@ -12,6 +12,7 @@ Xcode
 
 ###7.x
 
+- [Xcode_7.dmg](http://pan.baidu.com/s/1hqIsMZa) 密码：rfgy
 - [Xcode_7.1_beta.dmg](http://pan.baidu.com/s/1ntrJPpv) 密码：ydm1
 - [Xcode_7_GM_seed.dmg](http://pan.baidu.com/s/1hqCmIrU) 密码：sfnm
 - [Xcode_7_beta_6.dmg](http://pan.baidu.com/s/1mggVxAo) 密码：5pmf
