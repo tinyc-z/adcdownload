@@ -5,8 +5,6 @@ adcdownload
 
 这里提供的哈希值均基于我们亲自从官方下载的dmg，请核对文件哈希值确保安全，不建议使用迅雷去下载官方地址。
 
-2015-09-18:百度盘已将 Xcode_7.dmg, Xcode_7.1_beta.dmg, Xcode_7_GM_seed.dmg, Xcode_6.4.dmg 判定为违规文件，无法继续分享。如果不介意，可以选择从360云盘的分享链接下载。
-
 打个广告
 powerby [@shixian.com](http://shixian.com)
 
@@ -15,8 +13,8 @@ Xcode
 ====
 
 ###7.x
-
-- Xcode_7.dmg [云盘](http://yunpan.cn/cHfgSepR5cJeC) 提取码：1c02 <br/>MD5:6be3e59a8a8d2ce40fb2076575d71c24 <br/>SHA-1:4afc067e5fc9266413c157167a123c8cdfdfb15e
+ 
+- [Xcode_7.dmg](http://pan.baidu.com/s/1c0g7qPM) 密码：bkqx <br/>MD5:6be3e59a8a8d2ce40fb2076575d71c24 <br/>SHA-1:4afc067e5fc9266413c157167a123c8cdfdfb15e
 - Xcode_7.1_beta.dmg [云盘](http://yunpan.cn/cHfgvc7VwpR32) 提取码：885b <br/>MD5:73c0d39de38953b16be0fa7792f0b401 <br/>SHA-1:11667b8f7d4167c791789f29a44bb375916f93e6
 - [Xcode_7_GM_seed.dmg](http://pan.baidu.com/s/1kTrizEv) 密码：aw1m
 - [Xcode_7_beta_6.dmg](http://pan.baidu.com/s/1mggVxAo) 密码：5pmf
@@ -27,7 +25,7 @@ Xcode
 
 ###6.x
 
-- Xcode_6.4.dmg [云盘](http://yunpan.cn/cHfKADDFKgsWY) 提取码：8aa2 <br/>MD5:fc57760b91df8d45ee57ba80436e49a9 <br/>SHA-1:672e3dcb7727fc6db071e5a8528b70aa03900bb0
+- [Xcode_6.4.dmg](http://pan.baidu.com/s/1qW9Vceg) 密码: 4w79 <br/>MD5:fc57760b91df8d45ee57ba80436e49a9 <br/>SHA-1:672e3dcb7727fc6db071e5a8528b70aa03900bb0
 - [Xcode_6.4_beta_4.dmg](http://pan.baidu.com/s/1jGf8D9O) 密码：cs4w
 - [Xcode_6.4_beta_3.dmg](http://pan.baidu.com/s/1ntML43R) 密码：t7mx
 - [Xcode_6.4_beta.dmg](http://pan.baidu.com/s/1jGtJ0iE) 密码：pqy1
