@@ -19,17 +19,7 @@ Xcode
 
 ###6.x
 
-- [Xcode_6.4.dmg](http://pan.baidu.com/s/1qW9Vceg) 密码: 4w79 <br/>MD5:fc57760b91df8d45ee57ba80436e49a9 <br/>SHA-1:672e3dcb7727fc6db071e5a8528b70aa03900bb0
-- [Xcode_6.3.2.dmg](http://pan.baidu.com/s/1dD4K66d) 密码：uvcc
-- [Xcode_6.3.dmg](http://pan.baidu.com/s/1bn4g5Fx) 密码：463j
-- [xcode_6.2.dmg](http://pan.baidu.com/s/1i3kqpNn) 密码：mh65
-- [xcode_6.1.1.dmg](http://pan.baidu.com/s/1mgj2cU8) 密码：v6oy
-- [xcode_6.1.dmg](http://pan.baidu.com/s/1mgBmxEo) 密码：4xcs
-
-###5.x
-
-- [xcode_5.1.1.dmg](http://pan.baidu.com/s/1kTDWosB) 密码：umcr
-- [xcode_5.1.dmg](http://pan.baidu.com/s/1eQnIeQY) 密码：xsqs
+其他链接整理验证中····
 
 
 - - - -
