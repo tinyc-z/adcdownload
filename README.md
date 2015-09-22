@@ -60,7 +60,7 @@ OS X
 
 ### El Capitan
 
-- [OS X El Capitan Developer beta](http://yunpan.cn/cHw48r8Lhi9nh) 密码：c7ae
+- [OS X El Capitan GM Candidate](http://yunpan.cn/cHw48r8Lhi9nh) 密码：c7ae
 
 ### Yosemite
 
