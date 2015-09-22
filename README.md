@@ -21,13 +21,13 @@ Xcode
 
 ###7.x
  
-- [Xcode_7.dmg](http://yunpan.cn/cHw4PYAUZZrGZ) 提取码：c539 <br/>
-  MD5:6be3e59a8a8d2ce40fb2076575d71c24 <br/>
-  SHA-1:4afc067e5fc9266413c157167a123c8cdfdfb15e
-
 - [Xcode_7.1_beta.dmg](http://yunpan.cn/cHfgvc7VwpR32) 提取码：885b <br/>
   MD5:73c0d39de38953b16be0fa7792f0b401 <br/>
   SHA-1:11667b8f7d4167c791789f29a44bb375916f93e6
+ 
+- [Xcode_7.dmg](http://yunpan.cn/cHw4PYAUZZrGZ) 提取码：c539 <br/>
+  MD5:6be3e59a8a8d2ce40fb2076575d71c24 <br/>
+  SHA-1:4afc067e5fc9266413c157167a123c8cdfdfb15e
 
 ###6.x
 
