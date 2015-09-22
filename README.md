@@ -49,8 +49,9 @@ Xcode
 
 ###5.x
 
-还在下载...
-
+- [xcode_5.1.1.dmg](http://yunpan.cn/cHcMmuXkUms7K) 提取码：e323 <br/>
+  MD5:99b22d57e71bdc86b8fbe113dfb9f739 <br/>
+  SHA-1:e4bb45174324c3a4b7c66fa1db1083ccbbe2334e
 
 
 - - - -
