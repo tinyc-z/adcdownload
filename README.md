@@ -20,6 +20,10 @@ Xcode
 ====
 
 ###7.x
+
+- [Xcode_7.1_beta_2.dmg](http://yunpan.cn/cHL4bc3BJtiIy) 提取码：54bb <br/>
+  MD5:525216ab46332614d805f080ed4754f0 <br/>
+  SHA-1:3e7b9dc70bc986f0a8e7b153b39e34dad4e56080
  
 - [Xcode_7.1_beta.dmg](http://yunpan.cn/cHfgvc7VwpR32) 提取码：885b <br/>
   MD5:73c0d39de38953b16be0fa7792f0b401 <br/>
