@@ -21,6 +21,10 @@ Xcode
 
 ###7.x
 
+- [Xcode_7.0.1.dmg](http://yunpan.cn/cFBqSGQ99mkjP) 提取码：b349 <br/>
+  MD5:8962e1a843a51232b92a908b6cfb180d <br/>
+  SHA-1:d4e9b9e8e33eb2cc7793143761404fbb650090d4
+
 - [Xcode_7.0.1.dmg](http://yunpan.cn/cH2tKSUJbSaya) 提取码：295a <br/>
   MD5:3702b5291ed8127781158eb6a79d03cb <br/>
   SHA-1:f750bd86359383a77d4b57714b05e6725eaec76c
