@@ -31,11 +31,11 @@ Xcode
   MD5:25e4af4f0a0251e08446cd51485041f1 <br/>
   SHA-1:33163b3cbff846224a2661c08ef8e737f0da0762
 
-- [Xcode_7.2_bate_4.dmg](http://yunpan.cn/c3HigfqqReGE2) 提取码：a072 <br/>
+- [Xcode_7.2_beta_4.dmg](http://yunpan.cn/c3HigfqqReGE2) 提取码：a072 <br/>
   MD5:f698b12885003e66d1e3a29d3e359b28 <br/>
   SHA-1:8cfc56c27a26d071e19a5cc35e7674e53148d27b
 
-- [Xcode_7.2_bate.dmg](http://yunpan.cn/cFzE6yJzrRrz9) 提取码：f04a <br/>
+- [Xcode_7.2_beta.dmg](http://yunpan.cn/cFzE6yJzrRrz9) 提取码：f04a <br/>
   MD5:bc0aee1f7447dce969a971265ddf90f9 <br/>
   SHA-1:ecb3aadd8a3d6f0208ba857c23813f5a44208d4e
 
