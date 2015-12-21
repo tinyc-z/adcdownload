@@ -13,7 +13,7 @@ adcdownload
     
 
 
-为自己的创业项目打个广告 powerby [@shixian.com](http://shixian.com)
+为自己的创业项目打个广告 powerby [@shixian.com](http://shixian.com?f=adcdownload)
 
 
 Xcode
