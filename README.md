@@ -3,6 +3,7 @@ adcdownload
 >近来国际出口在一些地区实在不给力，自己有一段时间下载adc的资源特别费劲，所以搞了网盘中转给有需要的人
 如果有访问不了的连接，可以及时微博私信我们 [@粥米鱼](http://weibo.com/bcker) [@葛小胖](http://weibo.com/1887872152)
 
+我们从 iOS 9.3 起提供 iOS Documentation 官方 dmg 中转（[#9](https://github.com/iBcker/adcdownload/issues/9)），最简单的使用方式是利用 Charles 或其他代理工具将 Xcode 的文档下载请求定向到本地文件。
 
 这里提供的哈希值均基于我们亲自从官方下载的dmg，下载完请核对文件哈希值确保安全，即使是用迅雷在官网下的，也最好核对下，你懂的~
     
@@ -25,6 +26,11 @@ Xcode
 - [Xcode_7.3.dmg](https://yunpan.cn/cY48nVBwHc37b) 提取码：92c5 <br/>
   MD5:1b685f132a8773b8d1c8d263bf8edbc1 <br/>
   SHA-1:2a9ad88e2144022fc81cdc1976e79b3d35a235b8
+  
+- [iOS 9.3 Documentation](https://yunpan.cn/cqybPxdN5ZWig) 提取码：8756 <br/>
+  Origin: https://devimages.apple.com.edgekey.net/docsets/20160321/031-52212-A.dmg <br/>
+  MD5:68a22ad66a54b2982d17652bcaa82e99 <br/>
+  SHA-1:fd44ac22ab8a763c63b8d9e856d714f96194e58d
 
 - [Xcode_7.2.1.dmg](https://yunpan.cn/cxzstpuTBq2Yq) 提取码： 8537 <br/>
   MD5:e9c6ec03fd269cb2802180800fb7fb0e <br/>
