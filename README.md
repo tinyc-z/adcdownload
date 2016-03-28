@@ -26,15 +26,6 @@ Xcode
   MD5:1b685f132a8773b8d1c8d263bf8edbc1 <br/>
   SHA-1:2a9ad88e2144022fc81cdc1976e79b3d35a235b8
 
-- [Xcode_7.3_beta_4.dmg](https://yunpan.cn/cxzs9hTGAPp6S) 提取码：ea37 <br/>
-  MD5:5498cdd8f4efb921295c6af4134d3b44 <br/>
-  SHA-1:610c348f9f18c1dfe30119fbb0d9544e7b7c549c
-
-- [Xcode_7.3_beta.dmg](https://yunpan.cn/crfZD8WkfYptn) 提取码：16cb <br/>
-  MD5:03ff289ee0fb28e0fa9183df9bf6a16f <br/>
-  SHA-1:c842358dc6e910dcef5fa7efe2fac962087e43d1
-
-
 - [Xcode_7.2.1.dmg](https://yunpan.cn/cxzstpuTBq2Yq) 提取码： 8537 <br/>
   MD5:e9c6ec03fd269cb2802180800fb7fb0e <br/>
   SHA-1:afebf0fb8f537948c04b0439cab0cc93136f158c
@@ -47,14 +38,6 @@ Xcode
   MD5:25e4af4f0a0251e08446cd51485041f1 <br/>
   SHA-1:33163b3cbff846224a2661c08ef8e737f0da0762
 
-- [Xcode_7.2_beta_4.dmg](http://yunpan.cn/c3HigfqqReGE2) 提取码：a072 <br/>
-  MD5:f698b12885003e66d1e3a29d3e359b28 <br/>
-  SHA-1:8cfc56c27a26d071e19a5cc35e7674e53148d27b
-
-- [Xcode_7.2_beta.dmg](http://yunpan.cn/cFzE6yJzrRrz9) 提取码：f04a <br/>
-  MD5:bc0aee1f7447dce969a971265ddf90f9 <br/>
-  SHA-1:ecb3aadd8a3d6f0208ba857c23813f5a44208d4e
-
 - [Xcode_7.1.dmg](http://yunpan.cn/cFBqSGQ99mkjP) 提取码：b349 <br/>
   MD5:8962e1a843a51232b92a908b6cfb180d <br/>
   SHA-1:d4e9b9e8e33eb2cc7793143761404fbb650090d4
@@ -62,18 +45,6 @@ Xcode
 - [Xcode_7.0.1.dmg](http://yunpan.cn/cH2tKSUJbSaya) 提取码：295a <br/>
   MD5:3702b5291ed8127781158eb6a79d03cb <br/>
   SHA-1:f750bd86359383a77d4b57714b05e6725eaec76c
-
-- [Xcode_7.1_beta_3.dmg](http://yunpan.cn/cH4pGcZR6359C) 提取码：5ba5 <br/>
-  MD5:5498cdd8f4efb921295c6af4134d3b44 <br/>
-  SHA-1:610c348f9f18c1dfe30119fbb0d9544e7b7c549c
-
-- [Xcode_7.1_beta_2.dmg](http://yunpan.cn/cHL4bc3BJtiIy) 提取码：54bb <br/>
-  MD5:525216ab46332614d805f080ed4754f0 <br/>
-  SHA-1:3e7b9dc70bc986f0a8e7b153b39e34dad4e56080
- 
-- [Xcode_7.1_beta.dmg](http://yunpan.cn/cHfgvc7VwpR32) 提取码：885b <br/>
-  MD5:73c0d39de38953b16be0fa7792f0b401 <br/>
-  SHA-1:11667b8f7d4167c791789f29a44bb375916f93e6
  
 - [Xcode_7.dmg](http://yunpan.cn/cHw4PYAUZZrGZ) 提取码：c539 <br/>
   MD5:6be3e59a8a8d2ce40fb2076575d71c24 <br/>
@@ -122,3 +93,5 @@ OS X
 ### Mountain
 
 - [OS X Mountain Lion 10.8.5(12F45).dmg](http://pan.baidu.com/s/1o6zCWEA) 密码：xdfa
+
+
