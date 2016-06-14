@@ -16,8 +16,9 @@ adcdownload
 
 为自己的创业项目打个广告 powerby [@shixian.com](http://shixian.com?f=adcdownload)
 
-2016-6-14 更新：
-adcdownload.apple.com 域名在中国大陆已经部署 CDN，建议优先使用浏览器从官网地址直接下载。
+**2016-6-14 更新：**
+
+adcdownload.apple.com 服务在中国大陆已经部署 CDN，建议优先使用浏览器从官网地址直接下载。
 
 Xcode
 ====
