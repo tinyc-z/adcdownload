@@ -16,9 +16,19 @@ adcdownload
 
 为自己的创业项目打个广告 powerby [@shixian.com](http://shixian.com?f=adcdownload)
 
+2016-6-14 更新：
+adcdownload.apple.com 域名在中国大陆已经部署 CDN，建议优先使用浏览器从官网地址直接下载。
 
 Xcode
 ====
+
+###8.x
+
+
+- [Xcode_8_beta.xip](https://yunpan.cn/cRrP4wkwhehny) 提取码：91bb <br/>
+  Source: http://adcdownload.apple.com/WWDC_2016/Xcode_8_beta/Xcode_8_beta.xip <br/>
+  MD5:0f54e0863f4531e8e5e2c8ea301fb15f <br/>
+  SHA-1:798e6155e9e70caa5f7385e99a5a4c36daa87b6a <br/>
 
 ###7.x
 
@@ -32,7 +42,7 @@ Xcode
   SHA-1:2a9ad88e2144022fc81cdc1976e79b3d35a235b8
   
 - [iOS 9.3 Documentation](https://yunpan.cn/cqybPxdN5ZWig) 提取码：8756 <br/>
-  Origin: https://devimages.apple.com.edgekey.net/docsets/20160321/031-52212-A.dmg <br/>
+  Source: https://devimages.apple.com.edgekey.net/docsets/20160321/031-52212-A.dmg <br/>
   MD5:68a22ad66a54b2982d17652bcaa82e99 <br/>
   SHA-1:fd44ac22ab8a763c63b8d9e856d714f96194e58d
 
