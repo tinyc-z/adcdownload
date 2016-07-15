@@ -26,6 +26,11 @@ Xcode
 ###8.x
 
 
+- [Xcode_8_beta_2.xip](https://yunpan.cn/cBWC3SSzFY5sS) 提取码：6d72 <br/>
+  Source: http://adcdownload.apple.com/Developer_Tools/Xcode_8_beta_2/Xcode_8_beta_2.xip<br/>
+  MD5:b19dc85588180a655c332cfdfb466e68 <br/>
+  SHA-1:798e6155e9e70caa5f7385e99a5a4c36daa87b6a <br/>
+  
 - [Xcode_8_beta.xip](https://yunpan.cn/cRrP4wkwhehny) 提取码：91bb <br/>
   Source: http://adcdownload.apple.com/WWDC_2016/Xcode_8_beta/Xcode_8_beta.xip <br/>
   MD5:0f54e0863f4531e8e5e2c8ea301fb15f <br/>
