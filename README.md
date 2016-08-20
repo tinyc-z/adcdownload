@@ -25,21 +25,11 @@ Xcode
 
 ###8.x
 
-
-- Xcode_8_beta_3.xip <br/>
-  Source: http://adcdownload.apple.com/Developer_Tools/Xcode_8_beta_3/Xcode_8_beta_3.xip <br/>
-  MD5:ac2fa9f0dbfbc5d3153e4e43de347c57 <br/>
-  SHA-1:226743393675445dbaa0fa5093ad81028b5124ca <br/>
+- Xcode_8_beta_6.xip <br/>
+  Source: http://adcdownload.apple.com/Developer_Tools/Xcode_8_beta_6/Xcode_8_beta_6.xip <br/>
+  MD5:33c775f5bb1bd1c5c62678af7ddd46c8 <br/>
+  SHA-1:996e5d40923d0edaf193b5adbec2b63652e2fd07 <br/>
   
-- [Xcode_8_beta_2.xip](https://yunpan.cn/cBWC3SSzFY5sS) 提取码：6d72 <br/>
-  Source: http://adcdownload.apple.com/Developer_Tools/Xcode_8_beta_2/Xcode_8_beta_2.xip<br/>
-  MD5:b19dc85588180a655c332cfdfb466e68 <br/>
-  SHA-1:798e6155e9e70caa5f7385e99a5a4c36daa87b6a <br/>
-  
-- [Xcode_8_beta.xip](https://yunpan.cn/cRrP4wkwhehny) 提取码：91bb <br/>
-  Source: http://adcdownload.apple.com/WWDC_2016/Xcode_8_beta/Xcode_8_beta.xip <br/>
-  MD5:0f54e0863f4531e8e5e2c8ea301fb15f <br/>
-  SHA-1:798e6155e9e70caa5f7385e99a5a4c36daa87b6a <br/>
 
 ###7.x
 
