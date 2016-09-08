@@ -25,10 +25,8 @@ Xcode
 
 ###8.x
 
-- Xcode_8_beta_6.xip <br/>
-  Source: http://adcdownload.apple.com/Developer_Tools/Xcode_8_beta_6/Xcode_8_beta_6.xip <br/>
-  MD5:33c775f5bb1bd1c5c62678af7ddd46c8 <br/>
-  SHA-1:996e5d40923d0edaf193b5adbec2b63652e2fd07 <br/>
+- Xcode_8_GM_seed.xip <br/>
+  Source: http://adcdownload.apple.com/Developer_Tools/Xcode_8_GM_seed/Xcode_8_GM_seed.xip <br/>
   
 
 ###7.x
