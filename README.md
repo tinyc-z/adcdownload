@@ -25,8 +25,8 @@ Xcode
 
 ###8.x
 
-- Xcode_8_GM_seed.xip <br/>
-  Source: http://adcdownload.apple.com/Developer_Tools/Xcode_8_GM_seed/Xcode_8_GM_seed.xip <br/>
+- Xcode_8.xip <br/>
+  Source: http://adcdownload.apple.com/Developer_Tools/Xcode_8/Xcode_8.xip <br/>
   
 
 ###7.x
