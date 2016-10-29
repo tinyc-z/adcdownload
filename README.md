@@ -27,8 +27,8 @@ Xcode
 
 - Xcode_8.1.xip <br/>
   Source: http://adcdownload.apple.com/Developer_Tools/Xcode_8.1/Xcode_8.1.xip <br/>
-  MD5:6c084896634167054685874871aeda2b41f0a621 <br/>
-  SHA-1:20074a704db058b68f9b7284f05b170a
+  MD5:20074a704db058b68f9b7284f05b170a <br/>
+  SHA-1:6c084896634167054685874871aeda2b41f0a621
   
 - Xcode_8.xip <br/>
   Source: http://adcdownload.apple.com/Developer_Tools/Xcode_8/Xcode_8.xip <br/>
