@@ -30,6 +30,11 @@ Xcode
   MD5:a6a4bc4c0d783fbb1ef6051af4d906b4 <br/>
   SHA-1:84c69fcf79bc65388dbea75161b88d9984acea1f
 
+- Xcode_8.2.xip <br/>
+  Source: http://adcdownload.apple.com/Developer_Tools/Xcode_8.2/Xcode_8.2.xip <br/>
+  MD5:ac26f80dc2274fd5ab706e81aaed3b0b <br/>
+  SHA-1:e2d13308b544bf2ee6d6f8212cccbf29513d3ef1
+
 - Xcode_8.1.xip <br/>
   Source: http://adcdownload.apple.com/Developer_Tools/Xcode_8.1/Xcode_8.1.xip <br/>
   MD5:20074a704db058b68f9b7284f05b170a <br/>
