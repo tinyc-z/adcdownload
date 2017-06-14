@@ -23,8 +23,20 @@ adcdownload.apple.com 服务在中国大陆已经部署 CDN，建议优先使用
 Xcode
 ====
 
+###9.x
+
+- Xcode_9_beta.xip <br/>
+  Source: http://adcdownload.apple.com/WWDC_2017/Xcode_9_beta/Xcode_9_beta.xip <br/>
+  MD5:dc3dc5467f209bac2329994fdab9c2cc <br/>
+  SHA-1:b0d136ce31cf21840e084067ff65c6ed498c2dde
+  
 ###8.x
 
+- Xcode_8.3.3.xip <br/>
+  Source: http://adcdownload.apple.com/Developer_Tools/Xcode_8.3.3/Xcode8.3.3.xip <br/>
+  MD5:21937ff48dca80367b28f33d21e544d2 <br/>
+  SHA-1:67023787df49c91ff5d6a67e12d165bc610f0022
+  
 - Xcode_8.3.2.xip <br/>
   Source: http://adcdownload.apple.com/Developer_Tools/Xcode_8.3.2/Xcode8.3.2.xip <br/>
   MD5:6c1b2b2410a91756ef130a4359f12a17 <br/>
