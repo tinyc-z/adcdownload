@@ -25,13 +25,8 @@ Xcode
 
 ### 9.x
 
-- Xcode_9_GM_seed.xip <br/>
-  Source: https://download.developer.apple.com/Developer_Tools/Xcode_9_GM_seed_build_9A235/Xcode_9_GM_seed.xip <br/>
-  
-- Xcode_9_beta.xip <br/>
-  Source: http://adcdownload.apple.com/WWDC_2017/Xcode_9_beta/Xcode_9_beta.xip <br/>
-  MD5:dc3dc5467f209bac2329994fdab9c2cc <br/>
-  SHA-1:b0d136ce31cf21840e084067ff65c6ed498c2dde
+- Xcode_9.xip <br/>
+  Source: https://download.developer.apple.com/Developer_Tools/Xcode_9/Xcode_9.xip <br/>
   
 ### 8.x
 
