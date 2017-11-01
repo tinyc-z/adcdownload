@@ -25,6 +25,9 @@ Xcode
 
 ### 9.x
 
+- Xcode_9.1.xip <br/>
+  Source: https://download.developer.apple.com/Developer_Tools/Xcode_9.1/Xcode_9.1.xip <br/>
+  
 - Xcode_9.0.1.xip <br/>
   Source: https://download.developer.apple.com/Developer_Tools/Xcode_9.0.1/Xcode_9.0.1.xip <br/>
 
